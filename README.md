@@ -28,8 +28,8 @@ The screenshot of the design is placed in solutionScreenshot.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/divanshi07/4CardsSection
+- Live Site URL: https://divanshi07.github.io/4CardsSection/
 
 ## My process
 
