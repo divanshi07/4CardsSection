@@ -79,7 +79,12 @@ body{
   .flex-item:not(:first-child):not(:last-child) {   /* 6 */
     flex-basis: 50%;
   }
-
+  @media (min-width:1400px){
+      .flexContainer{
+          margin-left: 7%;
+          margin-right: 7%;
+      }
+  }
 
   @media (max-width: 800px) {
 
